@@ -67,9 +67,9 @@ Di buat oleh Mohaamad Tohari Maolana
 3. Harga Produk
 
 ## Entity Relationship Diagram
-![](https://hackmd.io/_uploads/rk640ItWp.png)
+![](https://github.com/sitohari/mytoko/blob/main/public/images/Screenshot%202023-10-15%20185838.png)
 
 ---
 ## Mockup
-![](https://hackmd.io/_uploads/BkZIlHrMa.png)
+![](https://github.com/sitohari/mytoko/blob/main/public/images/discovermytoko.png)
 
